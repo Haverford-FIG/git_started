@@ -1,0 +1,23 @@
+body {
+
+    background-color: #A3D5FF;
+    font-family: 'Source Code Pro';
+    color: #7580B2;
+    width: 100%;
+}
+
+.header {
+    text-align: center;
+}
+
+.faq {
+    align:center;
+    margin: 0 auto;
+    margin-top: 25%;
+    width: 60%;
+    min-width: 372px;
+}
+
+.faq h4 {
+    text-align: center;
+}
